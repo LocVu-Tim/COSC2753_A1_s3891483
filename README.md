@@ -9,8 +9,6 @@
 
 ### Libraries to Install
 
-The following Python libraries are required to run the notebook:
-
 - pandas
 - numpy
 - scikit-learn
